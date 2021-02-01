@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,eAEA,UAAU,CACV,WAAW,CACX,YACA","file":"main.2ba1803e.chunk.css","sourcesContent":["\r\n.carousel-item{\r\n    \r\nwidth:100%;\r\nheight:100%;\r\nheight:500px;\r\n}\r\n"]}
